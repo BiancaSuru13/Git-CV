@@ -1,0 +1,45 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    text-align: left;
+    font-size: 20px;
+  }
+  
+  }
+  #text-color{
+    font-size: 30px;
+    color: black;
+  }
+  #text-color2{
+  font-size: 30px;
+    color: blue;
+  }
+  h2{
+    color: blue;
+  }
+  .bold {
+    font-weight: bold;
+  }
+  .none {
+    margin-left: -15px;
+    list-style-type: none;
+  }
+  .blue-bold{
+    text-color: blue;
+    font-weight: bold;
+  }
+  .bold2{
+    font-weight: bold;
+  }
+  .list1{
+    margin-left: 5px;
+    list-style-type: none;
+    
+  }
+  .list2{
+    margin-left: 5px;
+    list-style-type: none;
+  }
+  .custom-color{
+    text-color: blue;
+  }
